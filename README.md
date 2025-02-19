@@ -1,0 +1,1 @@
+The ERA5 data is available from https://cds.climate.copernicus.eu/datasets/, The HadISD-Global sub-daily station dataset is available from https://www.metoffice.gov.uk/hadobs/hadisd/, era5-qualities-assessment, which includes scripts for downloading ERA5 and HadISD data, data processing, quality assessment, and all plotting scripts.
